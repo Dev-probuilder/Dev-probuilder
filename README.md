@@ -16,12 +16,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
 
-📈 **GitHub Stats:**  
-![Dev-probuilder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-probuilder&show_icons=true&theme=radical)  
-
-🔥 **Top Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-probuilder&layout=compact&theme=radical)  
-
 <!---
 Dev-probuilder/Dev-probuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
