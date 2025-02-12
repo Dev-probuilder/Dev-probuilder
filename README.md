@@ -4,7 +4,6 @@
 - 👀 I’m interested in **DevOps, CI/CD, Cloud Computing, Infrastructure as Code (IaC), and Kubernetes**  
 - 🌱 I’m currently learning **advanced Terraform, GitOps workflows, and Kubernetes security best practices**  
 - 💞️ I’m looking to collaborate on **open-source DevOps tools, automation scripts, and cloud infrastructure projects**  
-- 📫 How to reach me: **devchaudhary9154@gmail.com**  
 - ⚡ Fun fact: **I automate everything, even my coffee brewing! ☕🚀**  
 
 🔧 **Tech Stack & Tools:**  
