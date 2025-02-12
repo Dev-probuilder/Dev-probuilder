@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SHAHID SHAH
+# 👋 Hi, I’m @A. S. Chaudhary
 
 🚀 **About Me:**  
 - 👀 I’m interested in **DevOps, CI/CD, Cloud Computing, Infrastructure as Code (IaC), and Kubernetes**  
